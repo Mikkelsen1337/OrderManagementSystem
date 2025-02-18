@@ -12,6 +12,7 @@ target/
 *.iml
 *.ipr
 DatabaseConnection.java
+DatabaseConnection
 
 ### Eclipse ###
 .apt_generated
