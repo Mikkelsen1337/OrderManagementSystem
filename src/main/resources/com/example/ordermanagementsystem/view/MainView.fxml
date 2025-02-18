@@ -16,6 +16,7 @@
             <TextField fx:id="emailField" promptText="Email"/>
             <TextField fx:id="phoneField" promptText="Telefonnummer"/>
             <Button text="Gem Kunde" onAction="#saveCustomer"/>
+            <Button text="Vis Kunde" onAction="#findCustomerByEmail"/>
         </VBox>
     </center>
 </BorderPane>
